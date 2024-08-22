@@ -1,3 +1,6 @@
+# ignore posts xlsx file
+sent_posts.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
